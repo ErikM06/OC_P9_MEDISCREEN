@@ -1,0 +1,15 @@
+[submodule "OC_P9_Mediscreen_Central"]
+	path = OC_P9_Mediscreen_Central
+	url = https://github.com/ErikM06/OC_P9_MEDISCREEN_CENTRAL.git
+[submodule "OC_P9_Mediscreen_UsersRepo"]
+	path = OC_P9_Mediscreen_UsersRepo
+	url = https://github.com/ErikM06/OC_P9_Mediscreen_RepoCentral.git
+[submodule "OC_P9_Mediscreen_DiabetesRisk"]
+	path = OC_P9_Mediscreen_DiabetesRisk
+	url = https://github.com/ErikM06/OC_P9_MEDISCREEN_DIABETESRISK.git
+[submodule "OC_P9_Mediscreen_ObservationRepo"]
+	path = OC_P9_Mediscreen_ObservationRepo
+	url = https://github.com/ErikM06/OC_P9_ObservationRepo.git
+[submodule "OC_P9_Mediscreen_Eureka"]
+	path = OC_P9_Mediscreen_Eureka
+	url = https://github.com/ErikM06/OC_P9_Mediscreen_Eureka.git
